@@ -1,5 +1,5 @@
 # Dockerfile basics
-
+#
 FROM 
 RUN - (Use RUN command only once, becuase each run command create a new lower)
 COPY 
